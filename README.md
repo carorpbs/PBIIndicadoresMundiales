@@ -5,9 +5,13 @@ En la primer hoja se muestra un análisis visual de la población mundial por co
 En el centro-derecha de la imagen se incluye un mapa mundial, donde los países están representados mediante círculos de diferentes tamaños, indicando la magnitud de su población. Los colores de los círculos permiten identificar el continente correspondiente:
 
 -Verde: África
+
 -Rojo: Asia
+
 -Gris: América
+
 -Amarillo: Europa
+
 -Gris claro: Oceanía
 
 En la parte superior, se encuentran filtros que permiten segmentar los datos por cantidad de población y por continente, lo que facilita el análisis visual comparativo.
@@ -22,7 +26,9 @@ En el centro, un mapa mundial muestra mediante círculos rojos la mortalidad inf
 A la izquierda, se incluye una tabla resumen por continente que muestra
 
 -Población total
+
 -Esperanza de vida promedio
+
 -Mortalidad infantil promedio
 
 Los datos reflejan que Europa tiene la esperanza de vida más alta (78,70 años) y una de las tasas más bajas de mortalidad infantil (10,34), mientras que África muestra la esperanza de vida más baja (61,29 años) y la mortalidad infantil más alta (77,94).
