@@ -1,6 +1,6 @@
 # PBIIndicadoresMundiales
 
-En la #primer #hoja se muestra un análisis visual de la población mundial por continente y país. En el lado izquierdo se presenta una tabla con los países asiáticos más poblados, destacando a China e India, que juntos superan los 2,700 millones de habitantes. La tabla resalta que Asia es el continente con mayor población total.
+En la primer hoja se muestra un análisis visual de la población mundial por continente y país. En el lado izquierdo se presenta una tabla con los países asiáticos más poblados, destacando a China e India, que juntos superan los 2,700 millones de habitantes. La tabla resalta que Asia es el continente con mayor población total.
 
 En el centro-derecha de la imagen se incluye un mapa mundial, donde los países están representados mediante círculos de diferentes tamaños, indicando la magnitud de su población. Los colores de los círculos permiten identificar el continente correspondiente:
 
@@ -19,7 +19,7 @@ En la parte superior, se encuentran filtros que permiten segmentar los datos por
 En la parte inferior izquierda se muestra un diagrama de áreas (treemap) donde cada bloque representa un país y su tamaño es proporcional a su población, destacando visualmente a los países más poblados.
 
 
-En la #segunda #hoja se tiene un análisis de mortalidad infantil y esperanza de vida por regiones" presenta un análisis comparativo de datos demográficos clave agrupados por continente.
+En la segunda hoja se tiene un análisis de mortalidad infantil y esperanza de vida por regiones" presenta un análisis comparativo de datos demográficos clave agrupados por continente.
 
 En el centro, un mapa mundial muestra mediante círculos rojos la mortalidad infantil por país, siendo el tamaño del círculo proporcional al número de muertes por cada 1,000 nacimientos. Se observa una alta concentración de mortalidad infantil en África y algunas regiones de Asia.
 
@@ -37,4 +37,4 @@ En la parte inferior izquierda, un gráfico de dispersión relaciona la mortalid
 
 Además, hay filtros interactivos en la parte superior para segmentar la visualización por rangos de edad promedio, población, muertes por cada 1,000 niños y continentes.
 
-Este #tablero es útil para análisis educativos, geográficos y demográficos, proporcionando una representación clara y comparativa de la distribución poblacional global y para estudios comparativos de salud pública global, desarrollo social y condiciones de vida por región.
+Este tablero es útil para análisis educativos, geográficos y demográficos, proporcionando una representación clara y comparativa de la distribución poblacional global y para estudios comparativos de salud pública global, desarrollo social y condiciones de vida por región.
