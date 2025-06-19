@@ -1,5 +1,7 @@
 # PBIIndicadoresMundiales
 
+Del [Curso Power BI - Análisis de Datos y Business Intelligence](https://www.udemy.com/certificate/UC-a77da13e-980d-47d0-95d4-8c511ec688e5/)
+
 En la primer hoja se muestra un análisis visual de la población mundial por continente y país. En el lado izquierdo se presenta una tabla con los países asiáticos más poblados, destacando a China e India, que juntos superan los 2,700 millones de habitantes. La tabla resalta que Asia es el continente con mayor población total.
 
 En el centro-derecha de la imagen se incluye un mapa mundial, donde los países están representados mediante círculos de diferentes tamaños, indicando la magnitud de su población. Los colores de los círculos permiten identificar el continente correspondiente:
